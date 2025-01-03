@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Narasimhan Gopinath
-- 👀 I’m interested Javascript, React, Express technologies.
-- 🌱 I’m currently learning to build module federation based microfrontends.
+- 👀 I’m an agile Software engineer who started my software engineering career in 2011
+- 🌱 I have worked in various technology stacks in my web developement journey including Java based microservices and JS based frontends and Node micro-services
+- I’m currently working in MERN stack and have implemented Micro-frontends using WebPack5 Module federation
+- I have worked on GIS integration using ArcGIS JS sdk and ESRI Maps
 - 📫 React me at narasimhan.g@hotmail.com
 
 <!---
