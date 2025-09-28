@@ -3,6 +3,7 @@
 - 🌱 I have worked in various technology stacks in my web developement journey including Java based microservices and JS based frontends and Node micro-services
 - I’m currently working in MERN stack and have implemented Micro-frontends using WebPack5 Module federation
 - I have worked on GIS integration using ArcGIS JS sdk and ESRI Maps
+- Learning Gen AI and Agentic AI technolgoies using Langchain, RAG pipeline, Hugging face models
 - 📫 React me at narasimhan.g@hotmail.com
 
 <!---
